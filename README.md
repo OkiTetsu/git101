@@ -3,3 +3,5 @@
 Konichiwa, Github!
 
 Kombanwa, Github!
+
+Sayonara, Github!

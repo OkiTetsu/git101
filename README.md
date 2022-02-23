@@ -26,8 +26,14 @@ Last Action Hero(1993), Github!
 
 Conan the Barbarian(1982), Github!
 
+Terminator2(1991), Github!
+
+Terminator3(2003), Github!
+
 Terminator4(2009), Github!
 
 Terminator5(2015),Github!
 
 Terminator6(2019), Github!
+
+The Last Stand(2013), Github!

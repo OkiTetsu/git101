@@ -21,3 +21,7 @@ Terminator(1984), Github!
 Elaser(1996), Github!
 
 Truelies(1994), Github!
+
+Last Action Hero(1993), Github!
+
+Conan the Barbarian(1982), Github!

@@ -25,3 +25,9 @@ Truelies(1994), Github!
 Last Action Hero(1993), Github!
 
 Conan the Barbarian(1982), Github!
+
+Terminator4(2009), Github!
+
+Terminator5(2015),Github!
+
+Terminator6(2019), Github!
